@@ -1,0 +1,16 @@
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\obj\Debug\net5.0\Pokedex opdracht PROG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\obj\Debug\net5.0\Pokedex opdracht PROG.AssemblyInfoInputs.cache
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\obj\Debug\net5.0\Pokedex opdracht PROG.AssemblyInfo.cs
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\obj\Debug\net5.0\Pokedex opdracht PROG.csproj.CoreCompileInputs.cache
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\bin\Debug\net5.0\Pokedex opdracht PROG.exe
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\bin\Debug\net5.0\Pokedex opdracht PROG.deps.json
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\bin\Debug\net5.0\Pokedex opdracht PROG.runtimeconfig.json
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\bin\Debug\net5.0\Pokedex opdracht PROG.runtimeconfig.dev.json
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\bin\Debug\net5.0\Pokedex opdracht PROG.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\bin\Debug\net5.0\ref\Pokedex opdracht PROG.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\bin\Debug\net5.0\Pokedex opdracht PROG.pdb
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\obj\Debug\net5.0\Pokedex opdracht PROG.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\obj\Debug\net5.0\ref\Pokedex opdracht PROG.dll
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\obj\Debug\net5.0\Pokedex opdracht PROG.pdb
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\obj\Debug\net5.0\Pokedex opdracht PROG.genruntimeconfig.cache
+C:\Users\menno\OneDrive\Bureaublad\ma\bewijzenmap\Leerjaar 2\Periode 2\F2M6PROG\Pokedex opdracht PROG\obj\Debug\net5.0\Pokedex opdracht PROG.csproj.AssemblyReference.cache
